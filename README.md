@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Java, CSS, HTML, Ballerina, Python
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub, SQL, VS Code
 - **Interests:** Full-stack development, System design, QA Engineer, Software Engineer, Project Manager, UI/UX Designer
 
 ## 📫 How to reach me
