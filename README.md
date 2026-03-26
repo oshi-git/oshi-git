@@ -1,10 +1,16 @@
 # Hi there! 👋 I'm Oshadi Rajapaksha
 
-🎓 **Software Engineering Student** | Edith Cowan University  
+🎓 **Software Engineer Intern** | Edith Cowan University  
 💻 Passionate about building practical mobile and web applications  
 🌱 Currently mastering: React Native, Java, Web Development, Software Design, Quality Assurance
 
 ---
+## 💼 Experience
+Software Engineer Intern
+Current Role
+- Contributing to real-world software development projects in a professional environment
+- Applying software engineering best practices including python, odoo, erp system, version control, code review, and agile    workflows
+- Gaining hands-on experience in full-cycle software development
 
 ## 🚀 Featured Projects
 
@@ -77,6 +83,7 @@ A comprehensive Java-based system for managing student grades with features for 
 
 Currently focusing on:
 - Building real-world mobile applications with React Native
+- Internship of software enginner
 - Strengthening software engineering fundamentals
 - Learning new technologies and best practices
 - Contributing to meaningful projects that solve real problems
