@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Oshadi Rajapaksha
+# Hi there! 👋 I'm Oshadhi Rajapaksha
 
 🎓 **Software Engineer Intern** | Edith Cowan University  
 💻 Passionate about building practical mobile and web applications  
